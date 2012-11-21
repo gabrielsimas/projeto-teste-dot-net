@@ -1,0 +1,4 @@
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\DAL\bin\Debug\DAL.dll
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\DAL\bin\Debug\DAL.pdb
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\DAL\obj\Debug\DAL.dll
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\DAL\obj\Debug\DAL.pdb

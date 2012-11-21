@@ -1,0 +1,7 @@
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site01\bin\Site01.dll
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site01\bin\Site01.pdb
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site01\obj\Debug\Site01.dll
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site01\obj\Debug\Site01.pdb
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site01\bin\DAL.dll
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site01\bin\DAL.pdb
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site01\obj\Debug\Site01.csprojResolveAssemblyReference.cache
