@@ -1,0 +1,4 @@
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site02\bin\Site02.dll
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site02\bin\Site02.pdb
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site02\obj\Debug\Site02.dll
+E:\Documentos\Aprimoramento Profissional\Cursos\COTI\dotNET\Web Developer em C#\Solution\Treinamento\Site02\obj\Debug\Site02.pdb
